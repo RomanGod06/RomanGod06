@@ -18,6 +18,6 @@ Whether it's getting hardware to communicate or deploying a web app, my goal is 
 
 ### GitHub Stats
 
-![RomanGod06's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanGod06&show_icons=true&theme=radical)
+![RomanGod06's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanGod06&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanGod06&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanGod06&layout=compact&theme=dark)
