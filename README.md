@@ -17,4 +17,7 @@ Whether it's getting hardware to communicate or deploying a web app, my goal is 
 * **Tools:** VS Code Remote-SSH, Git, Docker (Currently Exploring)
 
 ### GitHub Stats
-[Insert standard GitHub stats widgets here]
+
+![RomanGod06's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanGod06&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanGod06&layout=compact&theme=radical)
