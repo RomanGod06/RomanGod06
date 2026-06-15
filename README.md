@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Tanishque
 
-<!--
-**RomanGod06/RomanGod06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student. I consider myself a resourceful developer—I learn by building, reading documentation, and debugging until the pieces actually fit together. 
 
-Here are some ideas to get you started:
+Whether it's getting hardware to communicate or deploying a web app, my goal is always to get the prototype working and learn the "why" along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to right now
+* **Tinkering with Hardware:** Prototyping IoT setups using ESP32s and managing a headless Raspberry Pi 3B+ (often debugging VS Code Remote-SSH over a mobile hotspot!).
+* **Learning DevOps:** Transitioning my projects by learning Docker and containerization from scratch.
+* **Academics:** Diving into Computer Graphics algorithms and Compiler Design optimization techniques.
+* **Team Building:** Coordinating development roles (frontend, backend, RAG integration) for fast-paced hackathons. 
+
+### The "Figure It Out" Tech Stack
+* **IoT & Embedded:** ESP32, Raspberry Pi, MQTT (Mosquitto)
+* **Software & AI:** Python (prototyping training loops & local AI integration)
+* **Web & Data:** SQLite, PostgreSQL, deploying full-stack apps to Render
+* **Tools:** VS Code Remote-SSH, Git, Docker (Currently Exploring)
+
+### GitHub Stats
+[Insert standard GitHub stats widgets here]
